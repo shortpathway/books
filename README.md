@@ -7,22 +7,22 @@
         </tr>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/osurf/osurf/master/gczydzjmd.zip">《共产主义的终极目的》</a>
+            <a href="https://github.com/gfw-breaker/9ping.md/blob/master/README.md">《九评共产党》</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/osurf/osurf/master/ebook_jtdwh.zip">《解体党文化》</a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://raw.githubusercontent.com/osurf/osurf/master/ebook_9p.zip">《九评共产党》</a>
+            <a href="https://github.com/gfw-breaker/jtdwh.md/blob/master/README.md">《解体党文化》</a>
           </td>
         </tr>
         <tr>
           <td>
             <a href="https://raw.githubusercontent.com/osurf/osurf/master/ebook_jqr.zip">《江泽民其人》</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://raw.githubusercontent.com/osurf/osurf/master/gczydzjmd.zip">《共产主义的终极目的》</a>
           </td>
         </tr>
       </table>
