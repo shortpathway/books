@@ -12,7 +12,7 @@
         </tr>
         <tr>
           <td>
-            <a href="https://od.lk/f/OTJfNDI2NzA4OF8">《共产主义的终极目的》mp3语音</a>
+            <a href="https://github.com/osurf/osurf/blob/master/jpn-s.pdf">《共产主义的终极目的》在线阅读</a>
           </td>
         </tr>
         <tr>
