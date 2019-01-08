@@ -7,12 +7,7 @@
         </tr>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/osurf/osurf/master/gczydzjmd.zip">《共产主义的终极目的》txt电子书</a>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://github.com/osurf/osurf/blob/master/jpn-s.pdf">《共产主义的终极目的》在线阅读</a>
+            <a href="https://raw.githubusercontent.com/osurf/osurf/master/gczydzjmd.zip">《共产主义的终极目的》</a>
           </td>
         </tr>
         <tr>
